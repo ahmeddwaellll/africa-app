@@ -1,0 +1,23 @@
+african school/
+│
+├── build.gradle
+├── local.properties
+├── Untitled-1.groovy
+│
+├── data/
+│   ├── dao/
+│   │   └── SchoolDao.kt
+│   ├── model/
+│   │   ├── School.kt
+│   │   └── UserProfile.kt
+│   ├── network/
+│   │   └── DeepSeekApiService.kt
+│   └── repository/
+│       └── SchoolRepository.kt
+│
+└── ui/
+    ├── AIAssistantScreen.kt
+    ├── LoginScreen.kt
+    ├── MainActivity.kt
+    ├── RegisterScreen.kt
+    └── SchoolMapScreen.kt
